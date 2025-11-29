@@ -77,7 +77,7 @@ const Login = () => {
               </Form.Item>
               <p className="font-medium text-[10px] text-center text-[#313131]">
                 Don’t have an account?
-                <a href="/registr">
+                <a href="registr">
                   <span className="font-semibold text-[#ff8682]"> Sign up</span>
                 </a>
               </p>
